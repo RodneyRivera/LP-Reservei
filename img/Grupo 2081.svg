@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="58" viewBox="0 0 58 58">
+  <defs>
+    <filter id="Elipse_1" x="0" y="0" width="58" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_2081" data-name="Grupo 2081" transform="translate(-1273 -983.306)">
+    <g id="Grupo_2080" data-name="Grupo 2080" transform="translate(1282 989)">
+      <g transform="matrix(1, 0, 0, 1, -9, -5.69)" filter="url(#Elipse_1)">
+        <circle id="Elipse_1-2" data-name="Elipse 1" cx="20" cy="20" r="20" transform="translate(9 6)" fill="#47c757"/>
+      </g>
+      <path id="Icon_awesome-whatsapp" data-name="Icon awesome-whatsapp" d="M19.276,5.545A11.238,11.238,0,0,0,1.594,19.1L0,24.922l5.956-1.564a11.2,11.2,0,0,0,5.369,1.366h.005A11.343,11.343,0,0,0,22.672,13.49a11.279,11.279,0,0,0-3.4-7.945ZM11.331,22.832a9.321,9.321,0,0,1-4.757-1.3l-.339-.2L2.7,22.255l.941-3.446-.223-.354A9.356,9.356,0,1,1,20.774,13.49a9.442,9.442,0,0,1-9.443,9.342Zm5.121-6.994c-.278-.142-1.66-.82-1.918-.911s-.445-.142-.633.142-.724.911-.891,1.1-.329.213-.607.071A7.641,7.641,0,0,1,8.583,12.9c-.288-.5.288-.461.825-1.533a.52.52,0,0,0-.025-.491c-.071-.142-.633-1.523-.865-2.085-.228-.547-.461-.471-.633-.481s-.349-.01-.536-.01a1.04,1.04,0,0,0-.749.349,3.154,3.154,0,0,0-.982,2.343,5.5,5.5,0,0,0,1.144,2.9,12.544,12.544,0,0,0,4.8,4.241c1.781.769,2.48.835,3.37.7a2.875,2.875,0,0,0,1.893-1.336,2.348,2.348,0,0,0,.162-1.336C16.918,16.045,16.731,15.975,16.452,15.838Z" transform="translate(8.637 6.387)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
